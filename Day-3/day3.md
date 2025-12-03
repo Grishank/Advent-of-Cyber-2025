@@ -3,7 +3,7 @@
 
 **Title:** Splunk Basics — Did You SIEM?  
 **Date Completed:** Dec 2025  
-**Difficulty:** Easy  
+**Difficulty:** Medium  
 **Category:** SIEM, Log Analysis, Splunk  
 **Room Link:** [Splunk Basics - Did you SIEM?](https://tryhackme.com/room/splunkforloganalysis-aoc2025-x8fj2k4rqp)          
 **Status:** ✔ Completed  
