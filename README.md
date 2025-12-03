@@ -24,7 +24,7 @@ By completing all 25 days, participants earn a **completion certificate**, a bad
 
 # 🟣 Prep Track (Completed)
 
-Before Day 1, TryHackMe provides a **Prep Track** — a warm-up room with 15 mini-tasks introducing Linux/Windows fundamentals, investigation basics, WiFi concepts, OSINT clues, and platform usage.
+Before Day 1, TryHackMe provides a **Prep Track** — a warm-up room with mini-tasks introducing Linux/Windows fundamentals, investigation basics, WiFi concepts, OSINT clues, and platform usage.
 
 ✔ Completed: Advent of Cyber 2025 — Prep Track  
 📄 Write-up: [Prep Track](./Prep-Track/prep-track.md)
@@ -59,9 +59,15 @@ Day-1/
 # 📅 Progress Tracker
 
 ### ✔ Prep Track — Completed  
-### ❄ Day 1 — Pending  
-### ❄ Day 2 — Pending  
+### ✔ Day 1 — Completed  
+📄 [Day 1 Write-up](./Day-1/day1.md)
+
+### ✔ Day 2 — Completed  
+📄 [Day 2 Write-up](./Day-2/day2.md)
+
 ### ❄ Day 3 — Pending  
+### ❄ Day 4 — Pending  
+### ❄ Day 5 — Pending  
 …  
 ### ❄ Day 25 — Pending  
 
