@@ -1,79 +1,85 @@
-🎄 Advent of Cyber 2025 — TryHackMe (My Complete Write-Ups)
+# 🎄 Advent of Cyber 2025 — TryHackMe (My Complete Write-Ups)
 
-Welcome to my Advent of Cyber 2025 repository!
-This repo contains all 25 days of write-ups, screenshots, notes, and solutions for TryHackMe’s biggest yearly cybersecurity event.
+Welcome to my **Advent of Cyber 2025** repository!  
+This repo contains **all 25 days** of write-ups, screenshots, notes, and solutions for TryHackMe’s biggest annual cybersecurity challenge.
 
-🎯 What is Advent of Cyber?
+TryHackMe releases **one challenge per day from December 1st to December 25th**, covering skills across:
+- SOC & Blue Team Analysis  
+- Pentesting Basics  
+- OSINT  
+- Digital Forensics  
+- Threat Detection  
+- Web Security  
+- Malware & Reverse Engineering  
+- Logging & SIEM Basics  
 
-Advent of Cyber (AoC) is a 25-day cybersecurity challenge released every December by TryHackMe.
+By completing all 25 days, participants earn a **completion certificate**, a badge, and a strong portfolio project.
 
-Each day includes:
+---
 
-A new hands-on security challenge
-
-Guided walkthroughs
-
-SOC analyst skills
-
-Pentesting & exploitation basics
-
-OSINT
-
-Forensics
-
-Log analysis
-
-Threat detection
-
-Real-world security concepts
-
-Completing all 25 days awards a certificate, a badge, and a top portfolio achievement.
-
-🗂 Folder Structure
+## 📁 Folder Structure
 
 Each day will have:
 
+```
 Day-1/
 Day-2/
 Day-3/
 ...
 Day-25/
-
+```
 
 Inside each folder:
 
-dayX.md → Write-up
+- **dayX.md** → Write-up  
+- **images/** → Screenshots  
 
-images/ → Screenshots
+Example:
+```
+Day-1/
+    day1.md
+    images/
+```
 
-📅 Progress
+---
 
-✔ Day 1 — Completed
+## 📅 Progress Tracker
 
-⏳ Day 2 — Pending
+- ✔ **Day 1** — Completed  
+- ⏳ Day 2 — Pending  
+- ⏳ Day 3 — Pending  
+- …  
+- ❄ **Day 25** — Pending  
 
-⏳ Day 3 — Pending
+(Updated daily as I complete each challenge.)
 
-...
+---
 
-❄ Day 25 — Pending
+## 🎯 Why Advent of Cyber?
 
-(Updated daily)
+Advent of Cyber is one of the most practical, hands-on, and beginner-to-intermediate friendly cybersecurity events.  
+Completing it shows:
 
-🧠 Why I’m Doing This
+- Consistency (25 days of daily tasks)  
+- Real SOC workflows  
+- Practical investigation & exploitation skills  
+- Ability to follow guided + independent challenges  
+- Portfolio-ready challenge notes  
+- A strong signal for recruiters  
 
-To build real SOC analyst + ethical hacking skills
+This repository serves as a **public record of my learning and problem-solving journey**.
 
-To follow structured 25-day challenge discipline
+---
 
-To strengthen my cybersecurity portfolio
+## 🏆 Certificate
 
-To showcase hands-on problem solving
+The completion certificate will be added here once all 25 days are finished.
 
-🏆 Certificate
+---
 
-The Advent of Cyber completion certificate will be added here once I finish all 25 days.
+## 🔥 Part of My 60-Day SOC + AI Journey  
+This challenge is integrated into my broader cybersecurity roadmap, helping me level up both hands-on skills and SOC analysis workflows.
 
-🔥 Connect
+Stay tuned for daily updates!
 
-Part of my 60-Day SOC + AI Journey 🛡️🤖
+---
