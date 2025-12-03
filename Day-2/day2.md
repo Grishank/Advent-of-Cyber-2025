@@ -5,7 +5,7 @@
 **Date Completed:** Dec 2025  
 **Difficulty:** Easy  
 **Category:** Social Engineering, Phishing, Red Team  
-**Room Link:** https://tryhackme.com/room/phishing-aoc2025-h2tkye9fzU                                                                                                   
+**Room Link:** [Phishing - Merry Clickmas](https://tryhackme.com/room/phishing-aoc2025-h2tkye9fzU)                           
 **Status:** ✔ Completed  
 
 ---
