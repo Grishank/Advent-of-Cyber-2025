@@ -5,7 +5,7 @@
 **Date Completed:** Dec 2025  
 **Difficulty:** Easy  
 **Category:** Intro + Mini Challenges  
-**Room Link:** [Advent of Cyber Prep Track](https://tryhackme.com/room/adventofcyberpreptrack)
+**Room Link:** [Advent of Cyber Prep Track](https://tryhackme.com/room/adventofcyberpreptrack)                             
 **Status:** ✔ Completed  
 
 ---
