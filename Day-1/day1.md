@@ -5,7 +5,7 @@
 **Date Completed:** Dec 2025  
 **Difficulty:** Easy  
 **Category:** Linux Basics + CLI Investigation  
-**Room Link:** https://tryhackme.com/room/linuxcli-aoc2025-o1fpqkvxti         
+**Room Link:** [Linux CLI Shells Bells](https://tryhackme.com/room/linuxcli-aoc2025-o1fpqkvxti)                              
 **Status:** ✔ Completed  
 
 ---
