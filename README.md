@@ -38,6 +38,7 @@ Prep-Track/
 Day-1/
 Day-2/
 Day-3/
+Day-4/
 ...
 Day-25/
 ```
@@ -68,8 +69,11 @@ Day-1/
 ### ✔ Day 3 — Completed  
 📄 [Day 3 Write-up](./Day-3/day3.md)
 
-### ❄ Day 4 — Pending  
+### ✔ Day 4 — Completed  
+📄 [Day 4 Write-up](./Day-4/day4.md)
+
 ### ❄ Day 5 — Pending  
+### ❄ Day 6 — Pending  
 …  
 ### ❄ Day 25 — Pending  
 
