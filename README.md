@@ -39,6 +39,7 @@ Day-1/
 Day-2/
 Day-3/
 Day-4/
+Day-5/
 ...
 Day-25/
 ```
@@ -72,8 +73,11 @@ Day-1/
 ### ✔ Day 4 — Completed  
 📄 [Day 4 Write-up](./Day-4/day4.md)
 
-### ❄ Day 5 — Pending  
+### ✔ Day 5 — Completed  
+📄 [Day 5 Write-up](./Day-5/day5.md)
+
 ### ❄ Day 6 — Pending  
+### ❄ Day 7 — Pending  
 …  
 ### ❄ Day 25 — Pending  
 
