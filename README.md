@@ -40,6 +40,10 @@ Day-2/
 Day-3/
 Day-4/
 Day-5/
+Day-6/
+Day-7/
+Day-8/
+Day-9/
 ...
 Day-25/
 ```
@@ -61,6 +65,8 @@ Day-1/
 # 📅 Progress Tracker
 
 ### ✔ Prep Track — Completed  
+📄 [Prep Track](./Prep-Track/prep-track.md)
+
 ### ✔ Day 1 — Completed  
 📄 [Day 1 Write-up](./Day-1/day1.md)
 
@@ -76,8 +82,20 @@ Day-1/
 ### ✔ Day 5 — Completed  
 📄 [Day 5 Write-up](./Day-5/day5.md)
 
-### ❄ Day 6 — Pending  
-### ❄ Day 7 — Pending  
+### ✔ Day 6 — Completed  
+📄 [Day 6 Write-up](./Day-6/day6.md)
+
+### ✔ Day 7 — Completed  
+📄 [Day 7 Write-up](./Day-7/day7.md)
+
+### ✔ Day 8 — Completed  
+📄 [Day 8 Write-up](./Day-8/day8.md)
+
+### ✔ Day 9 — Completed  
+📄 [Day 9 Write-up](./Day-9/day9.md)
+
+### ❄ Day 10 — Pending  
+### ❄ Day 11 — Pending  
 …  
 ### ❄ Day 25 — Pending  
 
