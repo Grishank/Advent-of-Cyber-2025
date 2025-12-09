@@ -1,11 +1,11 @@
 # 🎄 Advent of Cyber 2025 — Day 7  
 <img src="./images/day7-banner.png" width="900"/>
 
-**Title:** Network Discovery - Scan-ta Clause 
+**Title:** Network Discovery - Scan-ta Clause                                                                             
 **Date Completed:** Dec 2025  
 **Difficulty:** Easy–Medium  
 **Category:** Network Scanning, Service Enumeration  
-**Room Link:** [Network Discovery - Scan-ta Clause](https://tryhackme.com/room/networkservices-aoc2025-jnsoqbxgky)
+**Room Link:** [Network Discovery - Scan-ta Clause](https://tryhackme.com/room/networkservices-aoc2025-jnsoqbxgky)         
 **Status:** ✔ Completed  
 
 ---
