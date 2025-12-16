@@ -100,7 +100,9 @@ Day-1/
 ### ✔ Day 11 — Completed  
 📄 [Day 11 Write-up](./Day-11/day11.md)
 
-### ❄ Day 12 — Pending  
+### ❄ Day 12 — Completed
+📄 [Day 12 Write-up](./Day-12/day12.md)
+
 ### ❄ Day 13 — Pending  
 …  
 ### ❄ Day 25 — Pending  
