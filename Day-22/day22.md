@@ -4,7 +4,7 @@
 **Title:** C2 Detection - Command & Carol      
 **Difficulty:** Medium  
 **Category:** Network Forensics, Threat Hunting  
-**Room Link:** [C2 Detection - Command & Carol](https://tryhackme.com/room/detecting-c2-with-rita-aoc2025-m9n2b5v8c1) 
+**Room Link:** [C2 Detection - Command & Carol](https://tryhackme.com/room/detecting-c2-with-rita-aoc2025-m9n2b5v8c1)        
 **Status:** ✔ Completed  
 
 ---
