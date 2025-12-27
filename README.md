@@ -26,7 +26,7 @@ By completing all 25 days, participants earn a **completion certificate**, a bad
 # 🏆 Advent of Cyber 2025 Certificate
 
 <p align="center">
-  <img src="./assets/images/aoc-2025-certificate.png" width="900"/>
+  <img src="./assets/images/aoc-2025-certificate.jpg" width="900"/>
 </p>
 
 ✔ Completed all 25 days of **TryHackMe – Advent of Cyber 2025**  
