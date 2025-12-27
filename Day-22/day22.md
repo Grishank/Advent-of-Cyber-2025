@@ -1,5 +1,6 @@
 # 🎄 Advent of Cyber 2025 — Day 22  
 <img src="./images/day22-banner.png" width="900"/>
+
 **Title:** C2 Detection - Command & Carol      
 **Difficulty:** Medium  
 **Category:** Network Forensics, Threat Hunting  
