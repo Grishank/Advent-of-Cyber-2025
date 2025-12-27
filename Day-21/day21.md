@@ -1,7 +1,7 @@
 # 🎄 Advent of Cyber 2025 — Day 21  
 <img src="./images/day21-banner.png" width="900"/>
 
-**Title:** Malware Analysis - Malhare.exe 
+**Title:** Malware Analysis - Malhare.exe                                   
 **Date Completed:** Dec 2025  
 **Difficulty:** Medium  
 **Category:** Malware Analysis, HTA, Blue Team  
