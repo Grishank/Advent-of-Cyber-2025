@@ -5,7 +5,7 @@
 # 🎄 Advent of Cyber 2025 — TryHackMe (My Complete Write-Ups)
 
 Welcome to my **Advent of Cyber 2025** repository!  
-This repo contains all write-ups, screenshots, and notes for TryHackMe’s biggest annual cybersecurity challenge.
+This repo contains all write-ups, screenshots, and notes for **TryHackMe’s biggest annual cybersecurity challenge**.
 
 TryHackMe releases **one challenge per day from December 1st to December 25th**, covering:
 
@@ -19,6 +19,21 @@ TryHackMe releases **one challenge per day from December 1st to December 25th**,
 - Logging & SIEM Basics  
 
 By completing all 25 days, participants earn a **completion certificate**, a badge, and a strong portfolio project.
+
+🏅 This repository includes the official Advent of Cyber 2025 completion certificate and full daily write-ups.
+---
+
+# 🏆 Advent of Cyber 2025 Certificate
+
+<p align="center">
+  <img src="./assets/images/aoc-2025-certificate.png" width="900"/>
+</p>
+
+✔ Completed all 25 days of **TryHackMe – Advent of Cyber 2025**  
+✔ Hands-on SOC, Blue Team, Forensics, Web & Cloud challenges  
+✔ Public write-ups + evidence for every day  
+
+🔗 **TryHackMe profile (Verification): https://tryhackme.com/p/grishdubey01
 
 ---
 
@@ -45,7 +60,7 @@ Day-7/
 Day-8/
 Day-9/
 ...
-Day-25/
+Day-24/
 ```
 
 Inside each day folder:
@@ -121,11 +136,23 @@ Day-1/
 ### ❄ Day 18 — Completed
 📄 [Day 18 Write-up](./Day-18/day18.md)
 
-### ❄ Day 19 — Pending  
-…  
-### ❄ Day 25 — Pending  
+### ❄ Day 19 — Completed
+📄 [Day 19 Write-up](./Day-19/day19.md)
 
-(Updated as I complete each challenge.)
+### ❄ Day 20 — Completed
+📄 [Day 20 Write-up](./Day-20/day20.md)
+
+### ❄ Day 21 — Completed
+📄 [Day 21 Write-up](./Day-21/day21.md)
+
+### ❄ Day 22 — Completed
+📄 [Day 22 Write-up](./Day-22/day22.md)
+
+### ❄ Day 23 — Completed
+📄 [Day 23 Write-up](./Day-23/day23.md)
+
+### ❄ Day 24 — Completed
+📄 [Day 24 Write-up](./Day-24/day24.md)
 
 ---
 
@@ -144,15 +171,13 @@ This repository serves as a **public record of my problem-solving journey**.
 
 ---
 
-# 🏆 Certificate
+## 🔥 Part of My 60-Day SOC + AI Journey
 
-The official Advent of Cyber 2025 certificate will be added here after completing all 25 days.
+This challenge is integrated into my broader **SOC + AI learning roadmap**, helping me level up:
 
----
-
-## 🔥 Part of My 60-Day SOC + AI Journey  
-This challenge is integrated into my broader cybersecurity roadmap, helping me level up both hands-on skills and SOC investigation workflows.
-
-Stay tuned for daily updates!
+- Detection & response thinking  
+- Tool-based investigations  
+- Documentation discipline  
+- Real-world security workflows  
 
 ---
